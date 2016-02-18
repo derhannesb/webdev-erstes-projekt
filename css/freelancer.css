@@ -203,6 +203,10 @@ section.success a.active {
     }
 }
 
+#impressum {
+	background: #f9f9f9;
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -274,7 +278,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #D99A46;
     background: #fff;
 }
 
